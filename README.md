@@ -6,9 +6,9 @@ The program is written with Python 3.8, pygame 2.0.0.dev6, pip 20.0.2 in Pycharm
 
 ### Prerequisites
 Python interpreter and pygame package are needed on your computer. 
-Python installation guide if needed:
 Reference from python: website: https://www.python.org/downloads/
 Reference from pycharm: website: https://www.jetbrains.com/pycharm/download/#section=mac
+Reference from pygame website: https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
 
 ### Running
 Run the game using python main.py
