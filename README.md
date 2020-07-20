@@ -19,5 +19,5 @@ The program will run by opening the main.py and clicking the “run” button of
 The game supports left and right arrow keys to control the spaceship. 
 
 ### Load/Save
-The highest score will be recorded and saved in bestscore.txt
+The highest score will be recorded and saved in bestscore.txt \
 The icon spaceship.png is free resource from https://www.flaticon.com/home
